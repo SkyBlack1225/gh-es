@@ -1,3 +1,4 @@
+<img width="450" height="450" alt="qrcode_prod helppr ai" src="https://github.com/user-attachments/assets/2bf9931d-7d86-4139-9b31-65f15333d310" />
 # GH ES CLI usage documentation
 
 ## gh es configure
